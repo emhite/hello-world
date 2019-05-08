@@ -1,10 +1,21 @@
-## Welcome to GitHub Pages
+## The Communication and Cognitive Systems Lab
 
 You can use the [editor on GitHub](https://github.com/emhite/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About the lab
+
+Research in the Communication and Cognitive Systems Lab is currently focused on three areas: 
+
+Political Communication and Public Opinion
+How do cognitive processes and informational environments interact to influence people’s political attitudes and behaviors?
+
+Political Decision Making and Communication Technology
+Under what conditions do communication technologies enhance or impair people’s ability to make sound political decisions?
+
+Eye Movement Measures
+How can we use eye movements as covert measures of attention, memory, stereotyping, sexual objectification, etc. across different domains of communication research (e.g., political communication, science communication, video games, etc.).
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
