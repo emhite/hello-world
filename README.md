@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/emhite/hello-world/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### About the lab
+### <h1>About the lab</h1>
 
 Research in the Communication and Cognitive Systems Lab is currently focused on three areas: 
 
